@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: visioncortex VTracer 0.6.12 -->
+
+<svg
+   version="1.1"
+   width="96"
+   height="96"
+   id="svg5"
+   sodipodi:docname="uRebarClassDecoder.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="5.9441164"
+     inkscape:cx="26.74914"
+     inkscape:cy="41.974279"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5">
+    <inkscape:grid
+       id="grid5"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <g
+     id="g9"
+     transform="translate(5.5,-8)">
+    <path
+       d="M 0,0 C 1.32,0 2.64,0 4,0 4,1.65 4,3.3 4,5 2.35,5 0.7,5 -1,5 -0.67,3.35 -0.34,1.7 0,0 Z"
+       fill="#f7f7f7"
+       transform="translate(27,73)"
+       id="path5" />
+    <path
+       style="fill:#363545;stroke:#363545;stroke-width:6;stroke-linecap:round;stroke-dasharray:none"
+       d="M 15,30 H 70"
+       id="path6" />
+    <path
+       style="fill:#81818d;stroke:#81818d;stroke-width:6;stroke-linecap:round;stroke-dasharray:none"
+       d="M 15,50 H 70"
+       id="path7" />
+    <path
+       style="fill:#363545;stroke:none;stroke-width:6;stroke-linecap:round;stroke-dasharray:none"
+       d="M 20,65 H 50 L 64,75 50,85 H 20 Z"
+       id="path8" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       id="path9"
+       cx="30"
+       cy="75"
+       r="3" />
+  </g>
+</svg>

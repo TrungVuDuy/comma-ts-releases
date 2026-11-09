@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  uExportImport icon master (96x96). Same flat style as uOpeningRebar: thick #363545 outlines,
+  light-gray faces, Comma palette accents - with strokes heavy enough to survive 32 px.
+
+  A concrete model block (red bar cage: reinforcement transfers too) and an XML sheet, linked by
+  an exchange loop: orange arrow = export (model -> XML, the palette's "export path" colour),
+  cyan arrow = import (XML -> model). The 16 px ribbon icon has its own simplified drawing,
+  uExportImport16.svg - re-render both together (see README.md for every place they feed).
+
+  Straight outlines sit on 3k+1.5: 96/32 = 3, so at 32 px every 3-unit stroke lands on exactly
+  one pixel column/row instead of smearing over two.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96">
+  <title>uExportImport</title>
+  <g stroke="#363545" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+    <!-- XML sheet, folded corner -->
+    <path d="M55.5 7.5H76.5L88.5 19.5V52.5H55.5Z" fill="#FFFFFF"/>
+    <path d="M76.5 7.5V19.5H88.5" fill="#D7D9E0"/>
+    <path d="M66 24 60 30.5 66 37 M78 24 84 30.5 78 37 M74.5 22 69.5 39" fill="none" stroke-width="3.5"/>
+
+    <!-- model block -->
+    <path d="M7.5 58.5 16.5 49.5H49.5L40.5 58.5Z" fill="#E9EBF0"/>
+    <path d="M40.5 58.5 49.5 49.5V79.5L40.5 88.5Z" fill="#AEB0BB"/>
+    <path d="M7.5 58.5H40.5V88.5H7.5Z" fill="#D7D9E0"/>
+  </g>
+
+  <!-- bar cage on the front face -->
+  <path d="M10.5 64.5H37.5 M10.5 82.5H37.5 M13.5 61.5V85.5 M34.5 61.5V85.5" fill="none" stroke="#A61E28" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- export: model -> XML -->
+  <path d="M25.5 44C25.5 28 31.5 21 45 21" fill="none" stroke="#FF8100" stroke-width="5" stroke-linecap="round"/>
+  <path d="M45 14 54 21 45 28Z" fill="#FF8100" stroke="#FF8100" stroke-width="2" stroke-linejoin="round"/>
+
+  <!-- import: XML -> model -->
+  <path d="M72 57C72 71 69 77 61 77" fill="none" stroke="#009AD9" stroke-width="5" stroke-linecap="round"/>
+  <path d="M61 70 52 77 61 84Z" fill="#009AD9" stroke="#009AD9" stroke-width="2" stroke-linejoin="round"/>
+</svg>

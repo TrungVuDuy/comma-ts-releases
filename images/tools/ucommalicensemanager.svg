@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+  Source for Packaging/uCommaLicenseManager/Icon.png (and the matching thumbnail in
+  Packaging/Catalog/uCommaLicenseManager.png - re-export at 96x96 and copy over both after
+  editing, since the .tsep/catalog ship the rasterised .png, not this file).
+
+  Matches the same "small line-art diagram + orange Comma flag mark, bottom-right" style as the
+  other three plugins' icons (Packaging/uRebarEndMarker/Icon.png etc.) - a padlock instead of a
+  dimension/rebar diagram, since this plugin manages the license rather than drawing anything.
+-->
+
+<svg
+   width="96"
+   height="96"
+   viewBox="0 0 96 96"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="uCommaLicenseManager.svg"
+   xml:space="preserve"
+   inkscape:export-filename="Icon.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="4.203125"
+     inkscape:cx="89.933085"
+     inkscape:cy="17.724907"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3"
+     showgrid="true"><inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14902"
+       empspacing="5"
+       enabled="true"
+       visible="true" /></sodipodi:namedview><defs
+     id="defs1"><style
+       id="style1">
+      .dark { fill: #303030; }
+      .orange { fill: #f97316; }
+      .shackle { fill: none; stroke: #303030; stroke-width: 3; stroke-linecap: round; }
+    </style><style
+       id="style1-9">
+      .cls-1 {
+        fill: #f97316;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #f97316;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: .14px;
+      }
+    </style></defs><!-- Shackle: an arc plus two short verticals down into the body. --><!-- Body: rounded rectangle. --><!-- Keyhole, cut as an orange highlight rather than a true cutout - simpler to edit than a
+       clip-path, and reads the same way. --><g
+     id="g1"
+     style="stroke:#81818d"><path
+       class="shackle"
+       d="m 30.997031,30.693403 a 15.788472,15.788472 0 0 1 31.576943,0"
+       id="path1"
+       style="stroke:#81818d" /><line
+       class="shackle"
+       x1="30.99703"
+       y1="30.693403"
+       x2="30.99703"
+       y2="46.481873"
+       id="line1"
+       style="stroke:#81818d" /><line
+       class="shackle"
+       x1="62.573975"
+       y1="30.693403"
+       x2="62.573975"
+       y2="46.481873"
+       id="line2"
+       style="stroke:#81818d" /></g><rect
+     class="dark"
+     x="23.710045"
+     y="44.052879"
+     width="48.57991"
+     height="38.86393"
+     rx="7.2869868"
+     ry="7.2869868"
+     id="rect2"
+     style="fill:#363545;stroke-width:1.2145" /><circle
+     class="orange"
+     cx="48"
+     cy="61.055847"
+     r="6.0724888"
+     id="circle2"
+     style="stroke-width:1.2145;fill:#71a141" /><polygon
+     class="orange"
+     points="42,54 39,64 37,64 34,54 "
+     id="polygon2"
+     transform="matrix(1.2144978,0,0,1.2144978,4.2780792,-2.0980377)"
+     style="fill:#71a141" /><!-- The Comma flag mark every icon in this family carries in its bottom-right corner. --></svg>

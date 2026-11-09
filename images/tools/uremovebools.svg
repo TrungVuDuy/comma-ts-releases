@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: visioncortex VTracer 0.6.12 -->
+
+<svg
+   version="1.1"
+   width="96"
+   height="96"
+   id="svg3"
+   sodipodi:docname="uRemoveBools.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   inkscape:export-filename="..\..\Packaging\Ribbon\uRemoveBools32x32.png"
+   inkscape:export-xdpi="32"
+   inkscape:export-ydpi="32"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="5.9441164"
+     inkscape:cx="56.358251"
+     inkscape:cy="45.002484"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3">
+    <inkscape:grid
+       id="grid3"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     transform="translate(-2.3618428)">
+    <path
+       style="fill:#81818d;fill-opacity:1;stroke:#9ea0ab;stroke-width:2;stroke-linecap:round;stroke-dasharray:3;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 78.083336,39.133335 V 67.000003"
+       id="path5" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#363545;stroke-width:3;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 8.4166675,10.000001 H 78.083336 V 39.133335 H 46.416668 v 27.866668 h 31.666668 v 19 H 8.4166675 Z"
+       id="path4"
+       sodipodi:nodetypes="ccccccccc" />
+    <g
+       id="g7"
+       style="fill:#a61e28;stroke:#a61e28;stroke-width:4;stroke-dasharray:none"
+       transform="matrix(1.903509,0,0,1.903509,-81.31581,-56.692995)">
+      <path
+         style="fill:#a61e28;fill-opacity:1;stroke:#a61e28;stroke-width:4;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 75,55 90,70"
+         id="path6" />
+      <path
+         style="fill:#a61e28;fill-opacity:1;stroke:#a61e28;stroke-width:4;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 90,55 75,70"
+         id="path7" />
+    </g>
+  </g>
+</svg>
